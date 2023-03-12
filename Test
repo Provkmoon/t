@@ -1,0 +1,1 @@
+function addTurret() { var turret = document.getElementById("turret"); turret.style.display = "block"; turret.onclick = function() { turret.innerHTML = "<img src=\"img/turrets/tur5.png\" border=\"0\" />"; } }
